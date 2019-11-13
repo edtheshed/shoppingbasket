@@ -7,4 +7,9 @@ public class ShoppingBasketTest {
     void first_test() {
         assertTrue(true);
     }
+
+    @Test
+    void second_test() {
+        assertTrue(true);
+    }
 }
